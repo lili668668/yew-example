@@ -1,0 +1,13 @@
+{
+  "name": "yew-app",
+  "version": "1.0.0",
+  "homepage": "https://lili668668.github.io/yew-example",
+  "author": "Tzu-Yin Hong <lili668668@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d target/deploy "
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
